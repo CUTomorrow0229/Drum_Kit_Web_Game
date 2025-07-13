@@ -1,7 +1,7 @@
 # Drum Kit Web Game
 
 為了練習JavaScript的Event listener, 動畫效果，用JavaScript, HTML, CSS製作而成的網頁遊戲  
-目前主要有鍵盤及滑鼠的互動，按鈕的特效等等
+目前主要有鍵盤及滑鼠的互動，按鈕的特效等等  
 遊戲網址：[Link](https://para0229k.github.io/Drum_Kit_Web_Game/)  
 
 <img width="735" height="auto" src="https://github.com/user-attachments/assets/1aefedc4-5db4-4a04-86bf-91248805ee5d" />
